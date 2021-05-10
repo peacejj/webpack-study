@@ -1,0 +1,1 @@
+console.log("Hello Webpack456"),console.log("你好, 今天 is a good day.");
